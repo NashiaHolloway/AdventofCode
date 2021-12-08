@@ -67,8 +67,8 @@ def Dive2(day2_5input):
     print("Answer:", ans)
 
 def main():
-    # day1input = "day1input.txt"
-    # SonarSweep(day1input)
+    day1input = "day1input.txt"
+    SonarSweep(day1input)
 
     day2input = "day2input.txt"
     Dive(day2input)
